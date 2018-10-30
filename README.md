@@ -1,4 +1,6 @@
-awakaasha
-=========
+Java service monitoring class
+================================
 
-php development repo
+To build using maven : Please follow bellow instrction.
+
+clean install -U
