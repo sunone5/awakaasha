@@ -11,7 +11,7 @@ To build using maven : Please follow bellow instrction.
 
 4.) When you run "ServiceMonitor.java" individually you must go to browser and then type - localhost:9000 to see how services are working , you can periodically refresh browsor to see how many services are working.
 
-5. Maven SureFire plugin TestCases report will be created under "/service-monitor/target/surefire-reports/"
+5.) Maven SureFire plugin TestCases report will be created under "/service-monitor/target/surefire-reports/"
 
 It's look like.
 
