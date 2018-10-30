@@ -9,7 +9,7 @@ To build using maven : Please follow bellow instrction.
 
 3.) Above maven command will Sucessfully Compile & Run & pass all the Junit5 Test cases & eventually build a diployable jar with depecdancies.
 
-4.) When you run "ServiceMonitor.java" individually you must go to browser and then type - localhost:9000 to see how service are working , you can periodically refresh browsor to see how service is working.
+4.) When you run "ServiceMonitor.java" individually you must go to browser and then type - localhost:9000 to see how services are working , you can periodically refresh browsor to see how many services are working.
 
 It's look like.
 
