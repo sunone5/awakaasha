@@ -11,7 +11,7 @@ To build using maven : Please follow bellow instrction.
 
 4.) When you run "ServiceMonitor.java" individually you must go to browser and then type - localhost:9000 to see how service are working , you can periodically refresh browsor to see how service is working.
 
-It look like.
+It's look like.
 
 http://localhost:9000/
 
